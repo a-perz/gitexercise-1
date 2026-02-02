@@ -9,6 +9,6 @@ public class PrimaryController {
     @FXML
     private void switchToSecondary() throws IOException {
         App.setRoot("secondary");
-        System.out.println("aiatana was here");
+        System.out.println("Aiatana was here");
     }
 }
